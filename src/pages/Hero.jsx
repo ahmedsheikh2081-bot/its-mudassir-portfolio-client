@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="mb-6 flex items-center gap-3">
             <span className="h-px w-10 bg-[#75D6C0]" />
             <span className="text-[11px] font-semibold uppercase tracking-[0.4em] text-[#75D6C0]">
-              ITS MUDASSIR OFFICIAL
+              ITS MUDASIR OFFICIAL
             </span>
           </div>
 
@@ -37,14 +37,14 @@ const Hero = () => {
 
           {/* Intro Description */}
           <p className="mt-8 max-w-[460px] text-sm leading-relaxed text-[#A1AAA7] sm:text-base md:text-[15px]">
-            I'm Mudassir — a singer and music lover, exploring different
+            I'm Mudasir — a singer and music lover, exploring different
             genres and emotions through my voice. Welcome to my space.
           </p>
 
           {/* Artist Signature */}
           <div className="mt-6">
             <span className="font-serif text-3xl italic tracking-wider text-[#75D6C0]/90">
-              Mudassir
+              Mudasir
             </span>
           </div>
 

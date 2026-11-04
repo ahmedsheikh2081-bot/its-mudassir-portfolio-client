@@ -20,7 +20,7 @@ const Footer = () => {
           </div>
           <div>
             <span className="block font-serif text-sm tracking-[0.2em] text-white">
-              ITS MUDASSIR
+              ITS MUDASIR
             </span>
             <span className="block text-[9px] font-semibold uppercase tracking-[0.3em] text-[#75D6C0]">
               OFFICIAL
@@ -41,7 +41,7 @@ const Footer = () => {
         <div className="flex flex-col items-center gap-4 md:flex-row md:gap-8">
           <div className="text-center md:text-right">
             <p className="text-[11px] tracking-wider text-[#A1AAA7]">
-              © 2026 Its Mudassir Official. All rights reserved.
+              © 2026 Its Mudasir Official. All rights reserved.
             </p>
             <p className="mt-1 text-[10px] tracking-widest text-[#75D6C0]">
               Developed & Designed by{" "}

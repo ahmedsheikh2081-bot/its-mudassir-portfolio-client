@@ -71,7 +71,7 @@ const Navbar = () => {
 
           <span className="flex flex-col font-serif text-white">
             <span className="text-[13px] tracking-[0.22em]">
-              ITS MUDASSIR
+              ITS MUDASIR
             </span>
 
             <span className="mt-1 text-[9px] tracking-[0.42em] text-gray-400">
